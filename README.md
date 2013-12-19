@@ -8,11 +8,11 @@ This is where all of my past, present and future projects will be kept. This is 
 ##Present
 ###robertfauver.com redesign
 - Project Timeline _updated XX/XX/XX_
--- Pomodoros
+ - Pomodoros
 - Technology
 - Promotion
--- Emails
--- Social
+ - Emails
+ - Social
 
 ##Future
 ###Acrofind
