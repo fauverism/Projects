@@ -11,6 +11,7 @@ This is where all of my past, present and future projects will be kept. This is 
 ####Management
 - Project Timeline _updated XX/XX/XX_
  - Pomodoros
+ - Blocks
 - Technology
 - Promotion
  - Emails
