@@ -6,5 +6,13 @@ This is where all of my past, present and future projects will be kept. This is 
 ##Past
 
 ##Present
+###robertfauver.com redesign
 
 ##Future
+###Acrofind
+###Secret
+###Paleo Recipes
+###Secret
+
+##Ongoing
+###robertfauver.com updates
